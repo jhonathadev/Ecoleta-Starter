@@ -1,4 +1,4 @@
-<img src="https://github.com/jhonathadev/Ecoleta-Starter/blob/master/imgs/1.png" height="600" width="850">
+<img src="https://github.com/jhonathadev/Ecoleta-Starter/blob/master/img/1.png" height="600" width="850">
 
 ## Getting Started
 
